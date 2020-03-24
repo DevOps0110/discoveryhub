@@ -225,7 +225,7 @@ a.morelink {
 					<table width="90%" class="banner-right-table">
 						<tbody><tr>
 							<td class="banner-right-heading banner-employees">200,000</td>
-							<td class="banner-right-heading banner-countries">40+</td>
+							<td class="banner-right-heading banner-countries">50+</td>
 							<td class="banner-right-heading banner-years">50</td>
 							<td class="banner-right-heading banner-founding-values">7</td>
 						</tr>
@@ -407,7 +407,7 @@ a.morelink {
                                                           <div class="pT20 cb">
                                                                         <p class="col-sm-offset-1 footer-hr"></p>
                                                                         <p class="center mT20 mL-40">
-                                                                                      The information contained in this website is proprietary. Copyright © 2018 Capgemini. All rights reserved.
+                                                                                      The information contained in this website is proprietary. Copyright Â© 2018 Capgemini. All rights reserved.
                                                                         </p>
                                                           </div>
                                            </div>

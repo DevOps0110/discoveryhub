@@ -219,7 +219,7 @@ a.morelink {
 					</div>
 					<div class="verticle-blank" style="height:10px;"></div>
 					
-						<p>Capgemini helps clients imagine</p><p>and realize their future as agile enterprises.</p>
+						<p>Capgemini DAC helps clients imagine</p><p>and realize their future as agile enterprises.</p>
 					
 					<div class="verticle-blank" style="height:10px;"></div>
 					<table width="90%" class="banner-right-table">

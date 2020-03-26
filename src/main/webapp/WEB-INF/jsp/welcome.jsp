@@ -225,7 +225,7 @@ a.morelink {
 					<table width="90%" class="banner-right-table">
 						<tbody><tr>
 							<td class="banner-right-heading banner-employees">200,000</td>
-							<td class="banner-right-heading banner-countries">40+</td>
+							<td class="banner-right-heading banner-countries">60+</td>
 							<td class="banner-right-heading banner-years">50</td>
 							<td class="banner-right-heading banner-founding-values">7</td>
 						</tr>
